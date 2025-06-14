@@ -30,13 +30,9 @@ I'm a **Jr. Software Developer** from the Philippines who enjoys building full-s
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git" />
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60" alt="GitHub" />
-  <img src="https://raw.githubusercontent.com/TanStack/query/main/media/repo-dark.png" width="60" alt="TanStack Query"/>
+  <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" width="60" alt="TanStack Query"/>
   <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/examples/demo/public/favicon.ico" width="60" alt="Zustand"/>
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60" alt="Github" />
-  <img src="https://vitejs.dev/logo.svg" width="60" alt="Vite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="60" alt="NPM" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60" alt="Postman" />
+  <img src="https://avatars.githubusercontent.com/u/108468352?s=200&v=4" width="60" alt="Drizzle-ORM" />
 </p>
 
 ---
