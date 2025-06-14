@@ -29,10 +29,10 @@ I'm a **Jr. Software Developer** from the Philippines who enjoys building full-s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" alt="MongoDB" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git" />
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60" alt="GitHub" />
   <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" width="60" alt="TanStack Query"/>
   <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/examples/demo/public/favicon.ico" width="60" alt="Zustand"/>
   <img src="https://avatars.githubusercontent.com/u/108468352?s=200&v=4" width="60" alt="Drizzle-ORM" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="60" alt="Prisma" />
 </p>
 
 ---
