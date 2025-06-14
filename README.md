@@ -30,9 +30,9 @@ I'm a **Jr. Software Developer** from the Philippines who enjoys building full-s
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git" />
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60" alt="GitHub" />
-  <img src="https://static-00.iconduck.com/assets.00/tanstack-query-icon-512x512-tzofhp2s.png" width="60" alt="TanStack Query"/>
-  <img src="https://static-00.iconduck.com/assets.00/zustand-icon-2048x2048-uxikm2g4.png" width="60" alt="Zustand"/>
-  <img src="https://avatars.githubusercontent.com/u/104802094?s=200&v=4" width="60" alt="Drizzle ORM" />
+  <img src="https://raw.githubusercontent.com/TanStack/query/main/media/repo-dark.png" width="60" alt="TanStack Query"/>
+  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/examples/demo/public/favicon.ico" width="60" alt="Zustand"/>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60" alt="Github" />
   <img src="https://vitejs.dev/logo.svg" width="60" alt="Vite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="60" alt="NPM" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VS Code" />
